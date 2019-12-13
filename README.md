@@ -1,7 +1,7 @@
 # Extract API using Drone Emprit
 Python, R, Linux, Asterisk, PBX. 
 
-# finding the correlation between influencer and ideas
+# Remove the Directories
 rm(list=ls())
 library(tm)
 library(dplyr)
