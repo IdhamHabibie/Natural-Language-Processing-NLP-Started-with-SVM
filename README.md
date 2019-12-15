@@ -1,1 +1,2 @@
-# Extracting Word Cloud from Twitter API using Drone Emprit Platform
+# Detecting Fraud using K-Means and Euclidean Distance in IoT Sensor 
+This topic will discuss of how K-Means and Euclidean Distance to analyse the Fraud in IoT Sensor. Basically, sasaasa
