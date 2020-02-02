@@ -4,4 +4,5 @@ We have two files in this project, which are :
   1. [Data Training](../master/train.csv)
   2. [Testing Data](../master/test.csv)
 
-# How the Code Works
+#### The Full iteractive codes may be accessed through : 
+  - [Full Code](../master/python.py)
